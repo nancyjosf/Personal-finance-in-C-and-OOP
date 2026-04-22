@@ -1,0 +1,9 @@
+.vs/
+x64/
+nancyopp/
+*.user
+*.suo
+*.ilk
+*.pdb
+*.idb
+*.obj

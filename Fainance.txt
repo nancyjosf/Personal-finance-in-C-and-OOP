@@ -1,0 +1,15 @@
+5
+salery|2000|3|6|2024
+freelance|3000|4|8|2024
+shope|2000|2|5|2024
+seling clothe|2000|2|5|2024
+cooking|1000|3|5|2025
+4
+food|1000|4|5|2026
+book|100|3|6|2024
+my hire|400|3|6|2024
+clothe|1000|7|1|2024
+3
+food|200
+book|1000
+my hire|500
